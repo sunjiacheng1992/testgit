@@ -2,7 +2,7 @@ Git is a distributed version control system.
 Git is free software.
 Giters are gays.
 yes?
-no
+nonono
 Creating a new branch is quick and simple.
 my name is sjc
 what's u name?
